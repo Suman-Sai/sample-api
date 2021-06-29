@@ -1,0 +1,23 @@
+{
+  "name": "sample-api",
+  "version": "1.0.0",
+  "description": "My Sample Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suman-Sai/sample-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suman-Sai/sample-api/issues"
+  },
+  "homepage": "https://github.com/Suman-Sai/sample-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
