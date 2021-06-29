@@ -155,13 +155,6 @@
             "salary" : "20000"
         },
         {
-            "id" : "CISL/H0/0042",
-            "firstName" : "M.Sumanth",
-            "designation": "Developer",
-            "company" : "Captiwate",
-            "salary" : "20000"
-        },
-        {
             "id" : "CISL/H0/0043",
             "firstName" : "B.Sai Vishal",
             "designation": "Developer",
